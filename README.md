@@ -11,7 +11,7 @@ Installation steps:
 
 4. Enjoy a peacefull browsing experience.
 
-## What shut up dictio actually does.
+## What SHUT UP Dictio actually does.
 
 Shut up dictio removes any and all bloat from your browsing from these websites.
 It removes all the games, puzzles, quizzes and anything else that could distract you. 
