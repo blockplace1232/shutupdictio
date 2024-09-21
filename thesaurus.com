@@ -49,3 +49,17 @@ www.thesaurus.com##.vbSs68OR4tDZkfWgvW3r
 www.thesaurus.com##div.YommMxopETPCP_wzxPxE:nth-of-type(8)
 www.thesaurus.com##div.YommMxopETPCP_wzxPxE:nth-of-type(10)
 www.thesaurus.com##div.YommMxopETPCP_wzxPxE:nth-of-type(4)
+www.thesaurus.com###related-words
+www.thesaurus.com##div:nth-of-type(9)
+www.thesaurus.com##div:nth-of-type(8)
+www.thesaurus.com##div:nth-of-type(5)
+www.thesaurus.com##.tEJceV7YF9MUrC51KXg7
+www.thesaurus.com##[href="/browse/symbiotic#synonym-of-the-day"]
+www.thesaurus.com##[href="/browse/symbiotic#example-sentences"]
+www.thesaurus.com##[href="/browse/symbiotic#related-words"]
+www.thesaurus.com##div.YommMxopETPCP_wzxPxE:nth-of-type(2)
+www.thesaurus.com##.Xd3kqg2dv0HTv4nDlxnC
+www.thesaurus.com##div.dkA1ih27tI9o0MHLDxKt > div
+www.thesaurus.com##div.dkA1ih27tI9o0MHLDxKt > p
+www.thesaurus.com##.BsLEokjNzgvQY0xyORKn.KhyRmcN6T1mkCS6cmpkT
+
