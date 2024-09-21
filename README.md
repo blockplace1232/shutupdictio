@@ -29,3 +29,7 @@ Please use this as much as you want, plus you can always add elements back into 
 Thanks for using this :3
 
 (Note: Those are not .com MS-DOS files, they are scripts to copy. They will not run if you download it.)
+
+## Bugs
+
+None :3 
