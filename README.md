@@ -5,7 +5,7 @@ Installation steps:
 
 1. Install uBlock Origin (avalible on most browsers)
 
-2. Open the "settings menu" in the uBlock origins extentions page.
+2. Open the "settings menu" in the uBlock Origin's extentions page.
 
 3. Paste in the code, and boom!
 
