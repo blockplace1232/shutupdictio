@@ -1,35 +1,27 @@
-# SHUT UP Dictio!
-Are you tired of having your dictionary/thesaurs.com expirence too clustered and want a more seamless, streamlined expirenece? Look no further thatn SHUT UP Dictio!
+## SHUT UP Dictio!
 
-Installation steps: 
+Are you tired of your dictionary/thesaurus.com experience feeling too cluttered and want a more seamless, streamlined browsing experience? Look no further than SHUT UP Dictio!
+Installation Steps:
 
-1. Install uBlock Origin (avalible on most browsers)
+  1. Install uBlock Origin (available on most browsers).
+  2. Open the "Settings Menu" in uBlock Origin's extension page.
+  3. Paste in the code, and boom!
+  4. Enjoy a peaceful browsing experience.
 
-2. Open the "settings menu" in the uBlock Origin's extentions page.
+What SHUT UP Dictio Actually Does:
 
-3. Paste in the code, and boom!
+SHUT UP Dictio removes all unnecessary clutter from these websites, including games, puzzles, quizzes, and anything else that could distract you. The website is meant to be used solely for dictionary and thesaurus purposes, and this code keeps only the essentials.
+What SHUT UP Dictio Doesn't Do:
 
-4. Enjoy a peacefull browsing experience.
+  It doesn't remove the banner at the bottom with copyright information or cookies.
+  It doesn't remove the option to easily switch between the dictionary and thesaurus sites.
+  It doesn't remove the search bar or any dictionary or thesaurus content.
 
-## What SHUT UP Dictio actually does.
+You can use this tool as much as you'd like, and you can always add elements back to the website by simply removing the line that deletes them.
 
-Shut up dictio removes any and all bloat from your browsing from these websites.
-It removes all the games, puzzles, quizzes and anything else that could distract you. 
-The website was made to only be used for dictionary/thesarus purposes and so this code removes it all and only leaves the bare minimum.
+Thanks for using SHUT UP Dictio! :3
 
-## What SHUT UP Dictio doesn't do
+(Note: These are not .com MS-DOS files; they are scripts to copy. They will not run if you download them.)
+Bugs:
 
-It doesn't remove the banner at the bottom with the copyright information or cookies. It does not remove the option to easily switch between the sites.
-
-It does not remove the search bar and does not remove any dictionary or thesarus information. 
-
-
-Please use this as much as you want, plus you can always add elements back into the website by just removing the line that deletes it.
-
-Thanks for using this :3
-
-(Note: Those are not .com MS-DOS files, they are scripts to copy. They will not run if you download it.)
-
-## Bugs
-
-None :3 
+None :3
